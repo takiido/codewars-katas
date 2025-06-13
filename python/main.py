@@ -2,6 +2,7 @@ import katas.list_filtering as lf
 import katas.duplicate_count as dc
 import katas.find_outlier as fo
 import katas.jading_casing_strings as jcs
+import katas.calculating_with_functions as cwf
 
 
 if __name__ == "__main__":
@@ -19,4 +20,8 @@ if __name__ == "__main__":
 
     # https://www.codewars.com/kata/5390bac347d09b7da40006f6
     # Test cases for the jading_casing_strings
-    jcs.test()
+    # jcs.test()
+
+    # https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
+    # Test cases for calculating_with_functions
+    cwf.test()
